@@ -1,0 +1,15 @@
+.recv{
+    width:90%;
+    border:solid #007bff 3px;
+    margin-top:20px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-left:10px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+#btn{
+    margin-left:10px;
+}

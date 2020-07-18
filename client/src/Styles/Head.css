@@ -1,0 +1,14 @@
+#photo{
+    width:150px;
+    height:150px;
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+
+#name{
+    text-align: center;
+    color:black;
+    padding-top: 10px;
+}
